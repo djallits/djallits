@@ -1,9 +1,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 🏆 28 Contributions in the Year 2023
  > 
-> 📦 5 Bytes Used in GitHub's Storage 
+> 📦 4 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,13 +48,15 @@ Sunday           0 commits       ░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       9 mins              ███████████████████░░░░░░   79.04 % 
+Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      9 mins              ███████████████████░░░░░░   79.04 % 
+PhpStorm                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    11 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -68,6 +70,6 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 18/02/2023 04:44:05 UTC
+ Last Updated on 19/02/2023 00:01:15 UTC
 <!--END_SECTION:waka-->
 
