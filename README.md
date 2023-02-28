@@ -1,4 +1,10 @@
+- 👋 Hi, I’m @djallits
+- 👀 I’m interested in PHP, MACH Digital Architecture, OpenTelemetry and Engineering Management.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on PHP-based Enterprise solutions (ex. ERP, PIM, DAM, CMS, OMS).
+- 📫 Send email to dan [at] jallits DOT com.
 
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2049%20mins-blue)
@@ -72,4 +78,9 @@ HTML                     1 repo              ████████░░░�
 
  Last Updated on 27/02/2023 00:01:13 UTC
 <!--END_SECTION:waka-->
+
+<!---
+djallits/djallits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
 
