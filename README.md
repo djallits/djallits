@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djallits
-- 👀 I’m interested in PHP, MACH Digital Architecture, OpenTelemetry and Engineering Management.
+- 👀 I’m interested in Engineering Management, MACH, and Enterprise PHP.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on PHP-based Enterprise solutions (ex. ERP, PIM, DAM, CMS, OMS).
+- 💞️ I’m looking to collaborate on PHP-based Enterprise solutions.
 - 📫 Send email to dan [at] jallits DOT com.
 
 ---
