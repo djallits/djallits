@@ -7,15 +7,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 116 Bytes Used in GitHub's Storage 
+> 📦 117 Bytes Used in GitHub's Storage 
  > 
 > 🏆 36 Contributions in the Year 2023
  > 
@@ -52,17 +52,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Blade Template           1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-PHP                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-JavaScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Blade Template           3 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
+JavaScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+PHP                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -75,7 +75,7 @@ HTML                     2 repos             ██████████░�
 
 
 
- Last Updated on 05/04/2023 00:01:15 UTC
+ Last Updated on 06/04/2023 00:01:03 UTC
 <!--END_SECTION:waka-->
 
 <!---
