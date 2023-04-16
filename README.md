@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20thousand%20lines%20of%20code-blue)
 
@@ -52,10 +52,10 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Blade Template           21 mins             ██████████████░░░░░░░░░░░   57.36 % 
-JavaScript               12 mins             █████████░░░░░░░░░░░░░░░░   34.13 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Blade Template           21 mins             ██████████████░░░░░░░░░░░   57.92 % 
+JavaScript               12 mins             ████████░░░░░░░░░░░░░░░░░   33.68 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
@@ -75,7 +75,7 @@ HTML                     2 repos             ██████████░�
 
 
 
- Last Updated on 15/04/2023 00:01:03 UTC
+ Last Updated on 16/04/2023 00:01:12 UTC
 <!--END_SECTION:waka-->
 
 <!---
