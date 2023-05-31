@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 142 Bytes Used in GitHub's Storage 
+> 📦 143 Bytes Used in GitHub's Storage 
  > 
 > 🏆 38 Contributions in the Year 2023
  > 
@@ -52,16 +52,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    6 mins              ████████████████████████░   95.89 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -74,7 +71,7 @@ HTML                     3 repos             ███████████�
 
 
 
- Last Updated on 30/05/2023 00:01:04 UTC
+ Last Updated on 31/05/2023 00:01:08 UTC
 <!--END_SECTION:waka-->
 
 <!---
