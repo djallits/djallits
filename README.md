@@ -7,7 +7,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -52,17 +52,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JSON                     20 mins             ███████████████░░░░░░░░░░   58.22 % 
-JavaScript               11 mins             ████████░░░░░░░░░░░░░░░░░   31.92 % 
-HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -75,7 +71,7 @@ PHP                      2 repos             ██████████░�
 
 
 
- Last Updated on 10/07/2023 00:35:57 UTC
+ Last Updated on 11/07/2023 00:30:59 UTC
 <!--END_SECTION:waka-->
 
 <!---
