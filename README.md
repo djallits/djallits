@@ -7,7 +7,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -52,13 +52,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     46 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -71,7 +71,7 @@ PHP                      2 repos             ██████████░�
 
 
 
- Last Updated on 11/07/2023 00:30:59 UTC
+ Last Updated on 12/07/2023 00:36:58 UTC
 <!--END_SECTION:waka-->
 
 <!---
