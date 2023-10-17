@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djallits
-- 👀 I’m interested in Engineering Management, MACH, and Enterprise PHP.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on PHP-based Enterprise solutions.
+- 👀 I’m interested in Excellence in Engineering Management, [MACH Technologies](https://machalliance.org/), and Open Source.
+- 🌱 I’m currently learning [NestJS](https://nestjs.com/) and [NextJS](https://nextjs.org/), and the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/).
+- 💞️ I’m looking to collaborate on Open Source solutions for the Enterprise.
 - 📫 Send email to dan [at] jallits DOT com.
 
 ---
