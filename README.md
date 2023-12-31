@@ -52,14 +52,13 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-PHP                      11 mins             ██████████████░░░░░░░░░░░   55.44 % 
-JSON                     9 mins              ███████████░░░░░░░░░░░░░░   44.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -73,7 +72,7 @@ SCSS                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 30/12/2023 00:01:02 UTC
+ Last Updated on 31/12/2023 00:01:39 UTC
 <!--END_SECTION:waka-->
 
 <!---
