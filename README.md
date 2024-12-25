@@ -60,4 +60,84 @@ const djallits = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251.5%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 28 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 259 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                37 commits          ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+🌆 Daytime                95 commits          ███████████████░░░░░░░░░░   58.64 % 
+🌃 Evening                30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   53 commits          ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Wednesday                37 commits          ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Sunday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+JavaScript               52 mins             ██████████████░░░░░░░░░░░   55.69 % 
+INI                      21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+
+🔥 Editors: 
+VS Code                  1 hr 30 mins        ████████████████████████░   96.16 % 
+Unknown Editor           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+
+🐱‍💻 Projects: 
+djallits/djallits        1 hr 34 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+PHP                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Liquid                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
+
+
+ Last Updated on Wed, 25 Dec 2024 00:37:20  UTC
 <!--END_SECTION:waka-->
