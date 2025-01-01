@@ -50,7 +50,7 @@ const djallits = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
 
@@ -60,7 +60,7 @@ const djallits = {
 
 > 📦 1.4 kB Used in GitHub's Storage 
  > 
-> 🏆 270 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,5 +132,5 @@ Liquid                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Tue, 31 Dec 2024 12:28:20  UTC
+ Last Updated on Wed,  1 Jan 2025 00:41:19  UTC
 <!--END_SECTION:waka-->
