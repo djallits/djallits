@@ -52,7 +52,7 @@ const djallits = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251.9%20thousand%20lines%20of%20code-blue)
 
@@ -128,5 +128,5 @@ Liquid                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Mon, 13 Jan 2025 12:28:26  UTC
+ Last Updated on Tue, 14 Jan 2025 00:37:04  UTC
 <!--END_SECTION:waka-->
