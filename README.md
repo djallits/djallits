@@ -58,7 +58,9 @@ const djallits = {
 
 **🐱 My GitHub Data** 
 
-> 📦 1.7 kB Used in GitHub's Storage 
+> 📦 1.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 72 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,19 +95,16 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JSON                     4 mins              ███████████████████████░░   92.53 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bissell-core             4 mins              ███████████████████████░░   92.53 % 
-brother-dcpl2640dw       0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,5 +124,5 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Thu,  6 Mar 2025 00:40:59  UTC
+ Last Updated on Thu,  6 Mar 2025 12:29:38  UTC
 <!--END_SECTION:waka-->
