@@ -60,51 +60,14 @@ const djallits = {
 
 > 📦 2.1 kB Used in GitHub's Storage 
  > 
+> 🏆 90 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                167 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
-🌆 Daytime                262 commits         █████████████░░░░░░░░░░░░   52.19 % 
-🌃 Evening                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   143 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Tuesday                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Wednesday                137 commits         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Thursday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -122,5 +85,5 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Wed, 21 May 2025 00:44:40  UTC
+ Last Updated on Wed, 21 May 2025 12:30:32  UTC
 <!--END_SECTION:waka-->
