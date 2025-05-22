@@ -54,13 +54,11 @@ const djallits = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 kB Used in GitHub's Storage 
- > 
-> 🏆 90 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,6 +66,45 @@ const djallits = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                169 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   52.27 % 
+🌃 Evening                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   145 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Wednesday                137 commits         ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -85,5 +122,5 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Wed, 21 May 2025 12:30:32  UTC
+ Last Updated on Thu, 22 May 2025 00:44:18  UTC
 <!--END_SECTION:waka-->
