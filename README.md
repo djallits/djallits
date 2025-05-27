@@ -60,6 +60,8 @@ const djallits = {
 
 > 📦 2.2 kB Used in GitHub's Storage 
  > 
+> 🏆 90 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -122,5 +124,5 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Tue, 27 May 2025 00:43:53  UTC
+ Last Updated on Tue, 27 May 2025 12:30:40  UTC
 <!--END_SECTION:waka-->
