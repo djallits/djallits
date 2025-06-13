@@ -50,7 +50,7 @@ const djallits = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,6 +59,8 @@ const djallits = {
 **🐱 My GitHub Data** 
 
 > 📦 2.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 92 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,16 +95,18 @@ Sunday                   14 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      4 mins              ███████████████████████░░   92.78 % 
+INI                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nvim                     4 mins              ███████████████████████░░   92.78 % 
+djallits                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,5 +126,5 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Fri, 13 Jun 2025 00:46:41  UTC
+ Last Updated on Fri, 13 Jun 2025 12:31:38  UTC
 <!--END_SECTION:waka-->
