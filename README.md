@@ -60,6 +60,8 @@ const djallits = {
 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
+> 🏆 92 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -93,18 +95,16 @@ Sunday                   14 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Lua                      4 mins              ███████████████████████░░   92.78 % 
-INI                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nvim                     4 mins              ███████████████████████░░   92.78 % 
-djallits                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +124,5 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Fri, 20 Jun 2025 00:45:43  UTC
+ Last Updated on Fri, 20 Jun 2025 12:31:56  UTC
 <!--END_SECTION:waka-->
