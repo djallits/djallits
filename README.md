@@ -50,7 +50,7 @@ const djallits = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,16 +95,17 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 mins              █████████████████░░░░░░░░   66.56 % 
+Bash                     2 mins              ████████░░░░░░░░░░░░░░░░░   33.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+conky                    7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +125,5 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Wed,  2 Jul 2025 00:46:19  UTC
+ Last Updated on Wed,  2 Jul 2025 12:32:16  UTC
 <!--END_SECTION:waka-->
