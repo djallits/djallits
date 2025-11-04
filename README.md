@@ -50,15 +50,17 @@ const djallits = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.2 kB Used in GitHub's Storage 
  > 
-> 🏆 143 Contributions in the Year 2025
+> 🏆 145 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,6 +68,45 @@ const djallits = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                569 commits         █████████████░░░░░░░░░░░░   51.87 % 
+🌆 Daytime                404 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌃 Evening                124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   539 commits         ████████████░░░░░░░░░░░░░   49.13 % 
+Tuesday                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Thursday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Friday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Sunday                   11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,5 +123,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/djallits/djallits/main/assets/bar_graph.png)
 
 
- Last Updated on Mon,  3 Nov 2025 12:38:06  UTC
+ Last Updated on Tue,  4 Nov 2025 00:48:07  UTC
 <!--END_SECTION:waka-->
